@@ -1,0 +1,1 @@
+git status -> it give the status.
