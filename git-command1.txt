@@ -1,2 +1,4 @@
 git status -> it give the status
 git init -> it is to initiate 
+
+Private branch 1
